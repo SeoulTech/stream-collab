@@ -1,7 +1,7 @@
 # Stream
 We will use this Github repository to share code (Web, iOS and Android) among team members. 
 
-Find attached our presentation on <a href="http://www.slideshare.net/HassanAbid1/seoul-mate-at-stream">slideshare</a> 
+Find our presentation on <a href="http://www.slideshare.net/HassanAbid1/seoul-mate-at-stream">slideshare</a> 
 
 [Seoul Tech Society] - Lauch Lab: MOOC + 기업가정신 + 팀 프로젝트
 by. 하산 아비드
