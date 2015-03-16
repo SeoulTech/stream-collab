@@ -50,7 +50,7 @@ We will elaborate our great early-stage ideas step by step.
 We may have an app/website review time.
 
 
-Ready this if you are thirsty for more:
+Read this if you are thirsty for more:
 ------------------
 <a href="http://disciplinedentrepreneurship.com">Disciplined entrepreneurship: 24 steps to a successful startup</a>. Bill Aulet. Wiley.
 
