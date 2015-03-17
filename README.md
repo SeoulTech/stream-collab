@@ -21,16 +21,16 @@ We had a cozy self-introduction time and shared a variety of interesting ideas. 
 
 - STAGE: ON THE MARKET
 
-   1) My Memoirs.
+   1) <a href="https://www.yourmemoir.com">My Memoir</a>. Mobile app to share photos.
 
    2) <a href="www.allfanart.com">Allfanart</a>. eCommerce platform for custom products.
 
+
+- STAGE: PROTOTYPING
+ 
    3) Influence marketing by using profile pictures on social media
 
-
-- STAGE: PROTOTYPED
-
-   4) Seoul Mate. <a href="https://github.com/SeoulMate/stream">Github Repository</a> for STREAM. Presentation on <a href="http://www.slideshare.net/HassanAbid1/seoul-mate-at-stream">slideshare</a> 
+   4) Seoul Mate. For more information: <a href="https://github.com/SeoulMate/stream">Github Repository</a> or <a href="http://www.slideshare.net/HassanAbid1/seoul-mate-at-stream">Slideshare</a> 
 
 
 - STAGE: IDEATION
@@ -44,8 +44,52 @@ We had a cozy self-introduction time and shared a variety of interesting ideas. 
 Plus, we can come up with a SUPER-AMAZING-FUN project as delightful enjoyment!
 
 
-Our second STREAM 12022015 [Planning]
+Our second STREAM 12022015
 ------------------
+
+- STAGE: IDEATION
+
+   5) The wellness community by connecting local businesses for young people.
+      * Exmpale case: <a href="www.mo-yoyo.com">Moyoyo</a>
+      * Tips: 
+        - Use hash tages to gather people who may feel interested in joining the group such as #퇴근.
+        - Consider cross-promotion opportunites.
+
+
+Our third STREAM 26022015
+------------------
+
+- Actual financial stream of startup incubator organization
+- Tips to avoid fishing on lucrative financial aids for startups
+- Real-life lessons: how to take a chance from a casual event to an angel investor meeting
+
+
+Our fourth STREAM 12032015
+------------------
+
+We discussed about our next agenda.
+
+- Goal: Let's have something to present our ideas first! Skill-based sessions.
+
+- Agenda:
+
+   1) Wordpress set-up
+
+   2) UI/UX study
+
+   3) Marketing segmentation
+   
+   4) DMU/fall use cycle (Tentative)
+
+- Mini-conference plan: Progress(1 hour), Industry(1 hour), Recruit(1 hour)
+
+   1) Show progress for the project (and what you have been failed or challenged).
+   
+   2) Continue to develop our understanding of innovation and commercialization.
+
+   3) Recruit new members.
+   
+   
 We will elaborate our great early-stage ideas step by step.
 We may have an app/website review time.
 
@@ -54,6 +98,15 @@ Read this if you are thirsty for more:
 ------------------
 <a href="http://disciplinedentrepreneurship.com">Disciplined entrepreneurship: 24 steps to a successful startup</a>. Bill Aulet. Wiley.
 
-<a href="http://detoolbox.com">Disciplined Entrepreneurship Toolbox</a>.
+<a href="http://detoolbox.com">Disciplined entrepreneurship toolbox</a>.
 
+Useful links:
+------------------
+<a href="eef.io">The Entrepreneurship Educators Forum (EEF)</a>.
+<a href="http://www.producthunt.com">Product hunt</a>.
 
+Tools:
+------------------
+<a href="http://balsamiq.com/products/mockups/">Balsamiq mockups</a>.
+
+<a href="https://developer.chrome.com/devtools">Chrome developer tool</a>.
