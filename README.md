@@ -103,6 +103,7 @@ Read this if you are thirsty for more:
 Useful links:
 ------------------
 <a href="eef.io">The Entrepreneurship Educators Forum (EEF)</a>.
+
 <a href="http://www.producthunt.com">Product hunt</a>.
 
 Tools:
