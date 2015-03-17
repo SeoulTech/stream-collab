@@ -49,7 +49,7 @@ Our second STREAM 12022015
 
 - STAGE: IDEATION
 
-   5) The wellness community by connecting local businesses for young people.
+   8) The wellness community by connecting local businesses for young people.
       * Example case: <a href="www.mo-yoyo.com">Moyoyo</a>
       * Tips: 
         - Use hash tages to gather people who may feel interested in joining the group such as #퇴근.
