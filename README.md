@@ -50,10 +50,10 @@ Our second STREAM 12022015
 - STAGE: IDEATION
 
    5) The wellness community by connecting local businesses for young people.
-      * Exmpale case: <a href="www.mo-yoyo.com">Moyoyo</a>
+      * Example case: <a href="www.mo-yoyo.com">Moyoyo</a>
       * Tips: 
         - Use hash tages to gather people who may feel interested in joining the group such as #퇴근.
-        - Consider cross-promotion opportunites.
+        - Consider cross-promotion opportunities.
 
 
 Our third STREAM 26022015
