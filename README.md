@@ -21,9 +21,9 @@ We had a cozy self-introduction time and shared a variety of interesting ideas. 
 
 - STAGE: ON THE MARKET
 
-   1) <a href="https://www.yourmemoir.com">My Memoir</a>. Mobile app to share photos.
+   1) <a href="http://www.my-memoirs.com/">My Memoirs</a>. platform to archive your most memorable stories.
 
-   2) <a href="www.allfanart.com">Allfanart</a>. eCommerce platform for custom products.
+   2) <a href="http://www.allfanart.com">Allfanart</a>. eCommerce platform for custom art products.
 
 
 - STAGE: PROTOTYPING
